@@ -31,5 +31,3 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: /cards/Feature_C
 ---
-
-# Help
